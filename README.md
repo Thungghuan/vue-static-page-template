@@ -13,3 +13,7 @@ A template of a static page project, using vue3 and typescript, based on vite an
 - [VueUse](https://github.com/vueuse/vueuse)
 - [@vueuse/head](https://github.com/vueuse/head)
 - [WindiCSS](https://github.com/windicss/vite-plugin-windicss)
+
+## Tools used
+
+- [ViteSSG](https://github.com/antfu/vite-ssg)
