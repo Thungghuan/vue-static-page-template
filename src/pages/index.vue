@@ -3,6 +3,6 @@
     <h1>/index.vue</h1>
     <navigation />
   </div>
-  <img src="../assets/logo.png">
+  <img class="mx-auto" src="../assets/logo.png">
   <hello-world msg="Fantastic vite!!!!!!" />
 </template>

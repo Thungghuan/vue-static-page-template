@@ -4,6 +4,8 @@
 
 > Thank for `vite-plugin-md` with `vite-plugin-components`
 
+<div class="w-160 mx-auto">
+
 ```ts
 import Markdown from 'vite-plugin-md'
 import ViteComponents from 'vite-plugin-components'
@@ -23,8 +25,4 @@ export default {
 }
 ```
 
-<style>
-pre {
-  text-align: start;
-}
-</style>
+</div>
